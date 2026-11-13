@@ -1,0 +1,620 @@
+    <0>com.instagram.android::.schedulePersisted():
+    <0>com.facebook.lite::.schedulePersisted():
+    <0>org.telegram.messenger::timeout-reg:
+    <0>org.telegram.messenger::.schedulePersisted():
+    <0>org.telegram.messenger::anr:
+    <0>org.telegram.messenger::timeout-total:
+    <0>com.callapp.contacts::timeout-reg:
+    <0>com.callapp.contacts::.schedulePersisted():
+    <0>com.callapp.contacts::anr:
+    <0>com.callapp.contacts::timeout-total:
+    <0>com.whatsapp::timeout-reg:
+    <0>com.whatsapp::.schedulePersisted():
+    <0>com.whatsapp::anr:
+    <0>com.whatsapp::timeout-total:
+    <0>com.whatsapp::timeout-ej:
+    <0>com.google.android.verifier::timeout-reg:
+    <0>com.google.android.verifier::.schedulePersisted():
+    <0>com.google.android.verifier::anr:
+    <0>com.google.android.verifier::timeout-total:
+    <0>com.microsoft.launcher::timeout-reg:
+    <0>com.microsoft.launcher::.schedulePersisted():
+    <0>com.microsoft.launcher::anr:
+    <0>com.microsoft.launcher::timeout-total:
+    <0>com.instagram.android::timeout-reg:
+    <0>com.instagram.android::.schedulePersisted():
+    <0>com.instagram.android::anr:
+    <0>com.instagram.android::timeout-total:
+    <0>com.drdisagree.iconify::timeout-reg:
+    <0>com.drdisagree.iconify::.schedulePersisted():
+    <0>com.drdisagree.iconify::anr:
+    <0>com.drdisagree.iconify::timeout-total:
+    <0>com.drdisagree.pixellauncherenhanced::timeout-reg:
+    <0>com.drdisagree.pixellauncherenhanced::.schedulePersisted():
+    <0>com.drdisagree.pixellauncherenhanced::anr:
+    <0>com.drdisagree.pixellauncherenhanced::timeout-total:
+    <0>ir.eitaa.messenger::timeout-reg:
+    <0>ir.eitaa.messenger::timeout-total:
+    <0>com.facebook.lite::timeout-reg:
+    <0>com.facebook.lite::.schedulePersisted():
+    <0>com.facebook.lite::anr:
+    <0>com.facebook.lite::timeout-total:
+    <0>com.imo.android.imoim::timeout-reg:
+    <0>com.imo.android.imoim::timeout-total:
+  JOB SyncManager:1000/30: 884a0bb @SyncManager@com.imo.android.imoim.syncadapter.stubprovider/com.imo.android.imoim:android
+    1000 tag=*job*/@SyncManager@com.imo.android.imoim.syncadapter.stubprovider/com.imo.android.imoim:android
+    Source: uid=u0a280 user=0 pkg=com.imo.android.imoim
+      Extras: {provider=com.imo.android.imoim.syncadapter.stubprovider, ejDowngradedToRegular=false, reason=-4, source=4, userId=0, expectedRuntime=0, syncExemptionFlag=0, owningPackage=com.imo.android.imoim, SyncManagerJob=true, isPeriodic=true, allowParallelSyncs=false, periodMillis=900000, sourcePeriodicId=-1, jobId=30, owningUid=10280, flexMillis=36000, accountName=imo, accountType=com.imo.android.imoim, retries=0, syncExtras=PersistableBundle[{}]}
+    Source: uid=u0a234 user=0 pkg=ir.eitaa.messenger
+      Extras: {provider=com.android.contacts, ejDowngradedToRegular=false, reason=-4, source=4, userId=0, expectedRuntime=0, syncExemptionFlag=0, owningPackage=ir.eitaa.messenger, SyncManagerJob=true, isPeriodic=true, allowParallelSyncs=false, periodMillis=86400000, sourcePeriodicId=-1, jobId=32, owningUid=10234, flexMillis=3456000, accountName=42253056, accountType=org.eitaa.messenger, retries=0, syncExtras=PersistableBundle[{}]}
+  JOB SyncManager:1000/38: 9331fca @SyncManager@com.android.contacts/org.telegram.messenger:android
+    1000 tag=*job*/@SyncManager@com.android.contacts/org.telegram.messenger:android
+    Source: uid=u0a236 user=0 pkg=org.telegram.messenger
+      Extras: {provider=com.android.contacts, ejDowngradedToRegular=false, reason=-4, source=4, userId=0, expectedRuntime=0, syncExemptionFlag=0, owningPackage=org.telegram.messenger, SyncManagerJob=true, isPeriodic=true, allowParallelSyncs=false, periodMillis=86400000, sourcePeriodicId=-1, jobId=38, owningUid=10236, flexMillis=3456000, accountName=284402630, accountType=org.telegram.messenger, retries=0, syncExtras=PersistableBundle[{}]}
+  JOB SyncManager:1000/39: 3a65be @SyncManager@com.android.contacts/org.telegram.messenger:android
+    1000 tag=*job*/@SyncManager@com.android.contacts/org.telegram.messenger:android
+    Source: uid=u0a236 user=0 pkg=org.telegram.messenger
+      Extras: {provider=com.android.contacts, ejDowngradedToRegular=false, reason=-4, source=4, userId=0, expectedRuntime=0, syncExemptionFlag=0, owningPackage=org.telegram.messenger, SyncManagerJob=true, isPeriodic=true, allowParallelSyncs=false, periodMillis=86400000, sourcePeriodicId=-1, jobId=39, owningUid=10236, flexMillis=3456000, accountName=7350450669, accountType=org.telegram.messenger, retries=0, syncExtras=PersistableBundle[{}]}
+  JOB SyncManager:1000/128: 6279bd7 @SyncManager@com.android.contacts/com.whatsapp:android
+    1000 tag=*job*/@SyncManager@com.android.contacts/com.whatsapp:android
+    Source: uid=u0a237 user=0 pkg=com.whatsapp
+      Extras: {provider=com.android.contacts, ejDowngradedToRegular=false, reason=-4, source=4, userId=0, expectedRuntime=0, syncExemptionFlag=0, owningPackage=com.whatsapp, SyncManagerJob=true, isPeriodic=true, allowParallelSyncs=false, periodMillis=3600000, sourcePeriodicId=-1, jobId=128, owningUid=10237, flexMillis=144000, accountName=WhatsApp, accountType=com.whatsapp, retries=0, syncExtras=PersistableBundle[{}]}
+  JOB androidx.work.systemjobscheduler:u0a226/2530: 54e6ccb @androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+    u0a226 tag=*job*/@androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a226 user=0 pkg=com.google.android.verifier
+      Service: com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a226/2531: 5493451 @androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+    u0a226 tag=*job*/@androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a226 user=0 pkg=com.google.android.verifier
+      Service: com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a226/2532: f2642b2 @androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+    u0a226 tag=*job*/@androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a226 user=0 pkg=com.google.android.verifier
+      Service: com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a226/2533: e99123a @androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+    u0a226 tag=*job*/@androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a226 user=0 pkg=com.google.android.verifier
+      Service: com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a226/2534: 24f7448 @androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+    u0a226 tag=*job*/@androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a226 user=0 pkg=com.google.android.verifier
+      Service: com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a226/2535: 7f61806 @androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+    u0a226 tag=*job*/@androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a226 user=0 pkg=com.google.android.verifier
+      Service: com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a226/2536: 20b8cf4 @androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+    u0a226 tag=*job*/@androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a226 user=0 pkg=com.google.android.verifier
+      Service: com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a226/2537: 7cbae92 @androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+    u0a226 tag=*job*/@androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a226 user=0 pkg=com.google.android.verifier
+      Service: com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a235/7473: 8c9da93 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+    u0a235 tag=*job*/@androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a235 user=0 pkg=com.instagram.android
+      Service: com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a235/7480: ca9ed9d @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+    u0a235 tag=*job*/@androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a235 user=0 pkg=com.instagram.android
+      Service: com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a235/7481: 5d8fde3 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+    u0a235 tag=*job*/@androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a235 user=0 pkg=com.instagram.android
+      Service: com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a235/7482: b5173e0 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+    u0a235 tag=*job*/@androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a235 user=0 pkg=com.instagram.android
+      Service: com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a235/7484: 8c2e2be @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+    u0a235 tag=*job*/@androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a235 user=0 pkg=com.instagram.android
+      Service: com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a235/7485: 4c09c28 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+    u0a235 tag=*job*/@androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a235 user=0 pkg=com.instagram.android
+      Service: com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+  JOB #u0a235/2131434927: a5acd55 com.instagram.android/com.instagram.jobscheduler.bgfetch.scheduler.IgBgFetchSchedulerService
+    u0a235 tag=*job*/com.instagram.android/com.instagram.jobscheduler.bgfetch.scheduler.IgBgFetchSchedulerService
+    Source: uid=u0a235 user=0 pkg=com.instagram.android
+      Service: com.instagram.android/com.instagram.jobscheduler.bgfetch.scheduler.IgBgFetchSchedulerService
+  JOB androidx.work.systemjobscheduler:u0a237/8483: b3203b1 @androidx.work.systemjobscheduler@com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService
+    u0a237 tag=*job*/@androidx.work.systemjobscheduler@com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a237 user=0 pkg=com.whatsapp
+      Service: com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a237/8495: 2bc93cc @androidx.work.systemjobscheduler@com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService
+    u0a237 tag=*job*/@androidx.work.systemjobscheduler@com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a237 user=0 pkg=com.whatsapp
+      Service: com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a237/8585: d1ade85 @androidx.work.systemjobscheduler@com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService
+    u0a237 tag=*job*/@androidx.work.systemjobscheduler@com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a237 user=0 pkg=com.whatsapp
+      Service: com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a237/8588: 6388e12 @androidx.work.systemjobscheduler@com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService
+    u0a237 tag=*job*/@androidx.work.systemjobscheduler@com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a237 user=0 pkg=com.whatsapp
+      Service: com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a237/8589: 543845a @androidx.work.systemjobscheduler@com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService
+    u0a237 tag=*job*/@androidx.work.systemjobscheduler@com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a237 user=0 pkg=com.whatsapp
+      Service: com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a250/9500: d621562 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+    u0a250 tag=*job*/@androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a250 user=0 pkg=com.callapp.contacts
+      Service: com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a250/9501: bb4364c @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+    u0a250 tag=*job*/@androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a250 user=0 pkg=com.callapp.contacts
+      Service: com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a250/9601: 13f5bb2 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+    u0a250 tag=*job*/@androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a250 user=0 pkg=com.callapp.contacts
+      Service: com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a250/9634: 11326f3 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+    u0a250 tag=*job*/@androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a250 user=0 pkg=com.callapp.contacts
+      Service: com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a250/9642: d1c8574 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+    u0a250 tag=*job*/@androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a250 user=0 pkg=com.callapp.contacts
+      Service: com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a250/9729: 2193c9e @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+    u0a250 tag=*job*/@androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a250 user=0 pkg=com.callapp.contacts
+      Service: com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a250/9739: ade9dcf @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+    u0a250 tag=*job*/@androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a250 user=0 pkg=com.callapp.contacts
+      Service: com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+  JOB #u0a296/5625: d013b83 com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+    u0a296 tag=*job*/com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a296 user=0 pkg=com.microsoft.launcher
+      Service: com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+  JOB #u0a296/6196: 68d1a6 com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+    u0a296 tag=*job*/com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a296 user=0 pkg=com.microsoft.launcher
+      Service: com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+  JOB #u0a296/6281: 4cc65c4 com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+    u0a296 tag=*job*/com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a296 user=0 pkg=com.microsoft.launcher
+      Service: com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+  JOB #u0a296/6284: ba13cad com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+    u0a296 tag=*job*/com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a296 user=0 pkg=com.microsoft.launcher
+      Service: com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+  JOB #u0a296/6285: ef1bbe2 com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+    u0a296 tag=*job*/com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a296 user=0 pkg=com.microsoft.launcher
+      Service: com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+  JOB #u0a296/6293: 98dcd77 com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+    u0a296 tag=*job*/com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a296 user=0 pkg=com.microsoft.launcher
+      Service: com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+  JOB #u0a296/6305: c274ef3 com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+    u0a296 tag=*job*/com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a296 user=0 pkg=com.microsoft.launcher
+      Service: com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+  JOB #u0a398/-1486871027: 2b14617 com.drdisagree.iconify/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+    u0a398 tag=*job*/com.drdisagree.iconify/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+    Source: uid=u0a398 user=0 pkg=com.drdisagree.iconify
+      Service: com.drdisagree.iconify/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+  JOB androidx.work.systemjobscheduler:u0a398/421: 9a1129c @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+    u0a398 tag=*job*/@androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a398 user=0 pkg=com.drdisagree.iconify
+      Service: com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a398/423: ec31934 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+    u0a398 tag=*job*/@androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a398 user=0 pkg=com.drdisagree.iconify
+      Service: com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a398/432: bdb29a3 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+    u0a398 tag=*job*/@androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a398 user=0 pkg=com.drdisagree.iconify
+      Service: com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a398/433: bc82823 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+    u0a398 tag=*job*/@androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a398 user=0 pkg=com.drdisagree.iconify
+      Service: com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a398/434: 6a8ff4c @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+    u0a398 tag=*job*/@androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a398 user=0 pkg=com.drdisagree.iconify
+      Service: com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a398/435: e3fa407 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+    u0a398 tag=*job*/@androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a398 user=0 pkg=com.drdisagree.iconify
+      Service: com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a398/436: f0097b1 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+    u0a398 tag=*job*/@androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a398 user=0 pkg=com.drdisagree.iconify
+      Service: com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a398/437: b88612b @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+    u0a398 tag=*job*/@androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=u0a398 user=0 pkg=com.drdisagree.iconify
+      Service: com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+  JOB #u0a408/10016: 6ad25a8 com.facebook.lite/.intent.PeriodicTaskJobService
+    u0a408 tag=*job*/com.facebook.lite/.intent.PeriodicTaskJobService
+    Source: uid=u0a408 user=0 pkg=com.facebook.lite
+      Service: com.facebook.lite/.intent.PeriodicTaskJobService
+    10408/com.facebook.lite: {-1h25m0s73ms=6, -21m30s395ms=6}
+    10398/com.drdisagree.iconify: {-2h1m13s338ms=12, -59m21s244ms=12}
+    10296/com.microsoft.launcher: {-1h57m45s50ms=6}
+    10250/com.callapp.contacts: {-2h1m49s548ms=38, -19m19s674ms=12}
+    10237/com.whatsapp: {-2h1m39s71ms=53}
+    10236/org.telegram.messenger: {-1h1m14s652ms=9}
+    10235/com.instagram.android: {-1h11m50s301ms=12, -5m25s231ms=11}
+    10226/com.google.android.verifier: {-2h1m24s851ms=24}
+    JobStatus{884a0bb SyncManager:1000/30 @SyncManager@com.imo.android.imoim.syncadapter.stubprovider/com.imo.android.imoim:android u=0 s=10280 TIME=-2h2m2s685ms:-2h2m2s685ms NET STORENOTLOW PERIODIC PERSISTED satisfied:0xd320000b unsatisfied:0x400000}: 21473228
+    JobStatus{543845a androidx.work.systemjobscheduler:u0a237/8589 @androidx.work.systemjobscheduler@com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10237 TIME=-1h56m38s767ms:none NET CHARGING satisfied:0x83200003 unsatisfied:0x10400000}: 22307146
+    JobStatus{24f7448 androidx.work.systemjobscheduler:u0a226/2534 @androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10226 TIME=+2h1m52s831ms:none CHARGING IDLE satisfied:0x2600003 unsatisfied:0x81000004}: 37698744
+    JobStatus{d1ade85 androidx.work.systemjobscheduler:u0a237/8585 @androidx.work.systemjobscheduler@com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10237 TIME=-1h2m8s981ms:none NET satisfied:0x93200000 unsatisfied:0x400000}: 25216933
+    JobStatus{98dcd77 #u0a296/6293 com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10296 TIME=-6m31s495ms:none NET satisfied:0x93200000 unsatisfied:0x400000}: 28554419
+    JobStatus{7cbae92 androidx.work.systemjobscheduler:u0a226/2537 @androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10226 TIME=+2h1m56s151ms:none NET CHARGING IDLE satisfied:0x2600003 unsatisfied:0x91000004}: 37702065
+    JobStatus{6ad25a8 #u0a408/10016 com.facebook.lite/.intent.PeriodicTaskJobService u=0 s=10408 TIME=+34m59s921ms:+1h34m59s921ms PERIODIC PERSISTED satisfied:0x3600000 unsatisfied:0x80000000}: 31585835
+    JobStatus{ef1bbe2 #u0a296/6285 com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10296 TIME=+53m26s203ms:none satisfied:0x3200000 unsatisfied:0x80400000}: 32152117
+    JobStatus{c274ef3 #u0a296/6305 com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10296 TIME=+27m25s627ms:none satisfied:0x3200000 unsatisfied:0x80400000}: 30951541
+    JobStatus{ec31934 androidx.work.systemjobscheduler:u0a398/423 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10398 TIME=+1h40m36s489ms:none satisfied:0x3600000 unsatisfied:0x80000000}: 34982403
+    JobStatus{bdb29a3 androidx.work.systemjobscheduler:u0a398/432 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10398 TIME=+2h22m27s172ms:none satisfied:0x3600000 unsatisfied:0x80000000}: 37493086
+    JobStatus{20b8cf4 androidx.work.systemjobscheduler:u0a226/2536 @androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10226 TIME=+2h1m56s147ms:none NET CHARGING IDLE satisfied:0x12600003 unsatisfied:0x81000004}: 37702061
+    JobStatus{ba13cad #u0a296/6284 com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10296 TIME=+1h46m12s5ms:none NET satisfied:0x13200000 unsatisfied:0x80400000}: 35317919
+    JobStatus{9331fca SyncManager:1000/38 @SyncManager@com.android.contacts/org.telegram.messenger:android u=0 s=10236 TIME=+22h58m24s294ms:+1d0h10m24s294ms NET STORENOTLOW PERIODIC PERSISTED satisfied:0x13600008 unsatisfied:0x80000000}: 112010208
+    JobStatus{6388e12 androidx.work.systemjobscheduler:u0a237/8588 @androidx.work.systemjobscheduler@com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10237 TIME=+2h7m30s534ms:none NET satisfied:0x3200000 unsatisfied:0x90400000}: 36596448
+    JobStatus{bc82823 androidx.work.systemjobscheduler:u0a398/433 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10398 TIME=+3h21m47s952ms:none satisfied:0x3600000 unsatisfied:0x80000000}: 41773866
+    JobStatus{bb4364c androidx.work.systemjobscheduler:u0a250/9501 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10250 TIME=+3h11m4s696ms:none satisfied:0x3600000 unsatisfied:0x80000000}: 40410610
+    JobStatus{d621562 androidx.work.systemjobscheduler:u0a250/9500 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10250 TIME=+3h7m33s967ms:none satisfied:0x3600000 unsatisfied:0x80000000}: 40199882
+    JobStatus{11326f3 androidx.work.systemjobscheduler:u0a250/9634 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10250 TIME=+15h40m36s146ms:none satisfied:0x3600000 unsatisfied:0x80000000}: 85382061
+    JobStatus{68d1a6 #u0a296/6196 com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10296 TIME=+5h52m36s618ms:none satisfied:0x3200000 unsatisfied:0x80400000}: 50102533
+    JobStatus{d1c8574 androidx.work.systemjobscheduler:u0a250/9642 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10250 TIME=+16h10m6s791ms:none satisfied:0x3600000 unsatisfied:0x80000000}: 87152706
+    JobStatus{7f61806 androidx.work.systemjobscheduler:u0a226/2535 @androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10226 TIME=+2h0m9s649ms:none CHARGING IDLE satisfied:0x2600003 unsatisfied:0x81000004}: 37595564
+    JobStatus{2193c9e androidx.work.systemjobscheduler:u0a250/9729 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10250 TIME=+22h21m47s980ms:none satisfied:0x3600000 unsatisfied:0x80000000}: 111013895
+    JobStatus{8c2e2be androidx.work.systemjobscheduler:u0a235/7484 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10235 TIME=+9m36s693ms:none NET satisfied:0x13600000 unsatisfied:0x80000000}: 30902608
+    JobStatus{6279bd7 SyncManager:1000/128 @SyncManager@com.android.contacts/com.whatsapp:android u=0 s=10237 TIME=-30m40s505ms:-25m40s505ms NET STORENOTLOW PERIODIC PERSISTED satisfied:0xd3200008 unsatisfied:0x400000}: 30285410
+    JobStatus{9a1129c androidx.work.systemjobscheduler:u0a398/421 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10398 TIME=+1h40m36s363ms:none satisfied:0x3600000 unsatisfied:0x80000000}: 34982278
+    JobStatus{a5acd55 #u0a235/2131434927 com.instagram.android/com.instagram.jobscheduler.bgfetch.scheduler.IgBgFetchSchedulerService u=0 s=10235 TIME=+17h36m3s933ms:none NET PERSISTED satisfied:0x13600000 unsatisfied:0x80000000}: 92669848
+    JobStatus{b3203b1 androidx.work.systemjobscheduler:u0a237/8483 @androidx.work.systemjobscheduler@com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10237 TIME=+10h1m54s723ms:none satisfied:0x3200000 unsatisfied:0x80400000}: 65060638
+    JobStatus{2bc93cc androidx.work.systemjobscheduler:u0a237/8495 @androidx.work.systemjobscheduler@com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10237 TIME=+14h21m27s543ms:none NET satisfied:0x13200000 unsatisfied:0x80400000}: 80633458
+    JobStatus{b5173e0 androidx.work.systemjobscheduler:u0a235/7482 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10235 TIME=+34m40s89ms:none NET satisfied:0x13600000 unsatisfied:0x80000000}: 32166004
+    JobStatus{e3fa407 androidx.work.systemjobscheduler:u0a398/435 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10398 TIME=+4h0m38s793ms:none satisfied:0x3600000 unsatisfied:0x80000000}: 44284708
+    JobStatus{5493451 androidx.work.systemjobscheduler:u0a226/2531 @androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10226 TIME=+21h58m35s452ms:none satisfied:0x2600000 unsatisfied:0x81000000}: 109501367
+    JobStatus{b88612b androidx.work.systemjobscheduler:u0a398/437 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10398 TIME=+4h22m29s7ms:none satisfied:0x3600000 unsatisfied:0x80000000}: 46134922
+    JobStatus{8c9da93 androidx.work.systemjobscheduler:u0a235/7473 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10235 TIME=+2h12m23s856ms:none NET satisfied:0x13600000 unsatisfied:0x80000000}: 36889771
+    JobStatus{4c09c28 androidx.work.systemjobscheduler:u0a235/7485 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10235 TIME=+6h38m41s908ms:none NET BATNOTLOW STORENOTLOW IDLE satisfied:0x1360000a unsatisfied:0x80000004}: 54247824
+    JobStatus{2b14617 #u0a398/-1486871027 com.drdisagree.iconify/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService u=0 s=10398 TIME=+21h58m13s282ms:none NET IDLE satisfied:0x3600000 unsatisfied:0x90000004}: 108039198
+    JobStatus{f0097b1 androidx.work.systemjobscheduler:u0a398/436 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10398 TIME=+4h22m28s886ms:none satisfied:0x3600000 unsatisfied:0x80000000}: 46134802
+    JobStatus{6a8ff4c androidx.work.systemjobscheduler:u0a398/434 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10398 TIME=+3h21m48s17ms:none satisfied:0x3600000 unsatisfied:0x80000000}: 41773933
+    JobStatus{13f5bb2 androidx.work.systemjobscheduler:u0a250/9601 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10250 TIME=+12h34m19s258ms:none satisfied:0x3600000 unsatisfied:0x80000000}: 74205174
+    JobStatus{3a65be SyncManager:1000/39 @SyncManager@com.android.contacts/org.telegram.messenger:android u=0 s=10236 TIME=+22h58m24s354ms:+1d0h10m24s354ms NET STORENOTLOW PERIODIC PERSISTED satisfied:0x13600008 unsatisfied:0x80000000}: 112010270
+    JobStatus{e99123a androidx.work.systemjobscheduler:u0a226/2533 @androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10226 TIME=+5d12h33m49s137ms:none satisfied:0x2600000 unsatisfied:0x81000000}: 507615053
+    JobStatus{d013b83 #u0a296/5625 com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10296 TIME=+17h44m4s141ms:none NET satisfied:0x13200000 unsatisfied:0x80400000}: 92790057
+    JobStatus{4cc65c4 #u0a296/6281 com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10296 TIME=+20h45m10s403ms:none satisfied:0x3200000 unsatisfied:0x80400000}: 103656319
+    JobStatus{ca9ed9d androidx.work.systemjobscheduler:u0a235/7480 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10235 TIME=+6h35m0s216ms:none NET satisfied:0x13600000 unsatisfied:0x80000000}: 53786132
+    JobStatus{54e6ccb androidx.work.systemjobscheduler:u0a226/2530 @androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10226 TIME=+21h58m35s469ms:none satisfied:0x2600000 unsatisfied:0x81000000}: 109501385
+    JobStatus{ade9dcf androidx.work.systemjobscheduler:u0a250/9739 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10250 TIME=+12m40s614ms:none satisfied:0x3600000 unsatisfied:0x80000000}: 32706530
+    JobStatus{f2642b2 androidx.work.systemjobscheduler:u0a226/2532 @androidx.work.systemjobscheduler@com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10226 TIME=+21h58m35s940ms:none BATNOTLOW satisfied:0x2600002 unsatisfied:0x81000000}: 109501857
+    JobStatus{5d8fde3 androidx.work.systemjobscheduler:u0a235/7481 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10235 TIME=+5h44m6s677ms:none NET satisfied:0x13600000 unsatisfied:0x80000000}: 50732594
+        org.swiftapps.swiftbackup
+        com.rhs.ccontrol
+        com.drdisagree.colorblendr
+        shop.whitedns.client
+      u0a354 com.jhc.detach
+      u0a284 io.github.a13e300.ksuwebui
+      u0a363 ir.sinsin.CrossWord
+      u0a314 ir.mservices.market
+      u0a359 com.parsmobapp
+      u0a237 com.whatsapp
+      u0a276 com.ceyhan.sets
+      u0a240 com.alan.alanvpn
+      u0a345 com.wakeup.howear
+      u0a344 com.v2ray.warpi
+      u0a361 ir.tgbs.peccharge
+      u0a283 com.tafayor.killall
+      u0a271 com.ambrose.overwall
+      u0a322 com.smartpack.packagemanager
+      u0a317 com.mobisystems.editor.office_with_reg
+      u0a365 ir.gov.mygov
+      u0a370 com.pooyabyte.mb.android
+      u0a330 com.samapp.backupsms.backsmspro
+      u0a311 com.mxtunnel.pro
+      u0a241 com.arumcomm.settingsshortcut
+      u0a296 com.microsoft.launcher
+      u0a350 com.yahoo.mobile.client.android.mail
+      u0a355 com.sibche.aspardproject.app
+      u0a258 com.microsoft.emmx
+      u0a295 com.microsoft.math
+      u0a238 com.google.android.apps.searchlite
+      u0a351 zank.remote
+      u0a681 dev.ukanth.ufirewall
+      u0a360 com.nrdc.android.pyh
+      u0a247 com.farsitel.bazaar
+      u0a273 com.chartcross.gpstest
+      u0a231 com.baladmaps
+      u0a348 cn.wps.moffice_i18n
+      u0a308 com.mxtech.videoplayer.ad
+      u0a729 com.drdisagree.pixellauncherenhanced
+      u0a709 app.protasovvpn.com
+      u0a244 com.lb.app_manager
+      u0a736 com.droidbubble.app
+      u0a313 ir.mci.ecareapp
+      u0a234 ir.eitaa.messenger
+      u0a353 com.Zuma.MaTriX
+      u0a705 com.mixplorer
+      u0a256 com.digikala
+      u0a340 com.google.android.apps.translate
+      u0a688 com.shexa.permissionmanager
+      u0a265 com.fluxvpn2023.vpnflux2021
+      u0a336 com.termux
+      u0a287 com.gamovation.mahjongclub
+      u0a304 com.msnguard.vpn
+      u0a325 com.platovpn.vpn
+      u0a366 com.csdiran.samat
+      u0a249 org.skvalex.cr
+      u0a280 com.imo.android.imoim
+      u0a293 com.core.biggame.marble.android
+      u0a352 com.catstudio.zuma1
+      u0a318 com.opera.browser.beta
+      u0a320 ru.evfvelpy.plprfpupq
+      u0a248 com.binwizteam.vpn
+      u0a327 com.naman14.powermenu
+      u0a232 ir.balad
+      u0a257 ir.divar
+      u0a233 ir.nasim
+      u0a372 ir.tejaratbank.totp.mobile.android
+    10729:com.drdisagree.pixellauncherenhanced=false
+    10408:com.facebook.lite=false
+    10398:com.drdisagree.iconify=false
+    10388:ir.baran.vpn=false
+    10356:com.BrainLadder.Amirza=false
+    10314:ir.mservices.market=false
+    10296:com.microsoft.launcher=false
+    10280:com.imo.android.imoim=false
+    10250:com.callapp.contacts=false
+    10237:com.whatsapp=false
+    10236:org.telegram.messenger=false
+    10235:com.instagram.android=false
+    10234:ir.eitaa.messenger=false
+    10226:com.google.android.verifier=false
+    ##u0a408/10016 from u0a408 idle: com.facebook.lite [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a398/436 from u0a398 active: com.drdisagree.iconify [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a398/423 from u0a398 active: com.drdisagree.iconify [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a398/435 from u0a398 active: com.drdisagree.iconify [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a398/432 from u0a398 active: com.drdisagree.iconify [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a398/433 from u0a398 active: com.drdisagree.iconify [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a398/437 from u0a398 active: com.drdisagree.iconify [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a398/421 from u0a398 active: com.drdisagree.iconify [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a398/434 from u0a398 active: com.drdisagree.iconify [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##u0a398/-1486871027 from u0a398 active: com.drdisagree.iconify [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##u0a296/6285 from u0a296 idle: com.microsoft.launcher [RUN_ANY_IN_BACKGROUND disallowed] WAITING
+    ##u0a296/5625 from u0a296 idle: com.microsoft.launcher [RUN_ANY_IN_BACKGROUND disallowed] WAITING
+    ##u0a296/6305 from u0a296 idle: com.microsoft.launcher [RUN_ANY_IN_BACKGROUND disallowed] WAITING
+    ##u0a296/6284 from u0a296 idle: com.microsoft.launcher [RUN_ANY_IN_BACKGROUND disallowed] WAITING
+    ##u0a296/6293 from u0a296 idle: com.microsoft.launcher [RUN_ANY_IN_BACKGROUND disallowed] WAITING
+    ##u0a296/6281 from u0a296 idle: com.microsoft.launcher [RUN_ANY_IN_BACKGROUND disallowed] WAITING
+    ##u0a296/6196 from u0a296 idle: com.microsoft.launcher [RUN_ANY_IN_BACKGROUND disallowed] WAITING
+    #androidx.work.systemjobscheduler:u0a250/9500 from u0a250 active: com.callapp.contacts [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a250/9642 from u0a250 active: com.callapp.contacts [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a250/9501 from u0a250 active: com.callapp.contacts [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a250/9739 from u0a250 active: com.callapp.contacts [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a250/9729 from u0a250 active: com.callapp.contacts [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a250/9601 from u0a250 active: com.callapp.contacts [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a250/9634 from u0a250 active: com.callapp.contacts [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a237/8585 from u0a237 idle: com.whatsapp [RUN_ANY_IN_BACKGROUND disallowed] WAITING
+    #androidx.work.systemjobscheduler:u0a237/8483 from u0a237 idle: com.whatsapp [RUN_ANY_IN_BACKGROUND disallowed] WAITING
+    #androidx.work.systemjobscheduler:u0a237/8588 from u0a237 idle: com.whatsapp [RUN_ANY_IN_BACKGROUND disallowed] WAITING
+    #androidx.work.systemjobscheduler:u0a237/8589 from u0a237 idle: com.whatsapp [RUN_ANY_IN_BACKGROUND disallowed] WAITING
+    #androidx.work.systemjobscheduler:u0a237/8495 from u0a237 idle: com.whatsapp [RUN_ANY_IN_BACKGROUND disallowed] WAITING
+    #androidx.work.systemjobscheduler:u0a235/7480 from u0a235 idle: com.instagram.android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a235/7482 from u0a235 idle: com.instagram.android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##u0a235/2131434927 from u0a235 idle: com.instagram.android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a235/7473 from u0a235 idle: com.instagram.android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a235/7484 from u0a235 idle: com.instagram.android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a235/7481 from u0a235 idle: com.instagram.android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a235/7485 from u0a235 idle: com.instagram.android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a226/2532 from u0a226 idle: com.google.android.verifier [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a226/2533 from u0a226 idle: com.google.android.verifier [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a226/2535 from u0a226 idle: com.google.android.verifier [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a226/2537 from u0a226 idle: com.google.android.verifier [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a226/2530 from u0a226 idle: com.google.android.verifier [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a226/2531 from u0a226 idle: com.google.android.verifier [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a226/2534 from u0a226 idle: com.google.android.verifier [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a226/2536 from u0a226 idle: com.google.android.verifier [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #SyncManager:1000/32 from u0a234 idle: ir.eitaa.messenger [RUN_ANY_IN_BACKGROUND disallowed] WAITING
+    #SyncManager:1000/38 from u0a236 idle: org.telegram.messenger [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #SyncManager:1000/30 from u0a280 idle: com.imo.android.imoim [RUN_ANY_IN_BACKGROUND disallowed] WAITING
+    #SyncManager:1000/128 from u0a237 idle: com.whatsapp [RUN_ANY_IN_BACKGROUND disallowed] WAITING
+    #SyncManager:1000/39 from u0a236 idle: org.telegram.messenger [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##u0a408/10016 from u0a408: com.facebook.lite RUNNABLE
+    #androidx.work.systemjobscheduler:u0a398/436 from u0a398: com.drdisagree.iconify RUNNABLE
+    #androidx.work.systemjobscheduler:u0a398/423 from u0a398: com.drdisagree.iconify RUNNABLE
+    #androidx.work.systemjobscheduler:u0a398/435 from u0a398: com.drdisagree.iconify RUNNABLE
+    #androidx.work.systemjobscheduler:u0a398/432 from u0a398: com.drdisagree.iconify RUNNABLE
+    #androidx.work.systemjobscheduler:u0a398/433 from u0a398: com.drdisagree.iconify RUNNABLE
+    #androidx.work.systemjobscheduler:u0a398/437 from u0a398: com.drdisagree.iconify RUNNABLE
+    #androidx.work.systemjobscheduler:u0a398/421 from u0a398: com.drdisagree.iconify RUNNABLE
+    #androidx.work.systemjobscheduler:u0a398/434 from u0a398: com.drdisagree.iconify RUNNABLE
+    ##u0a398/-1486871027 from u0a398: com.drdisagree.iconify RUNNABLE
+    ##u0a296/6285 from u0a296: com.microsoft.launcher RUNNABLE
+    ##u0a296/5625 from u0a296: com.microsoft.launcher RUNNABLE
+    ##u0a296/6305 from u0a296: com.microsoft.launcher RUNNABLE
+    ##u0a296/6284 from u0a296: com.microsoft.launcher RUNNABLE
+    ##u0a296/6293 from u0a296: com.microsoft.launcher RUNNABLE
+    ##u0a296/6281 from u0a296: com.microsoft.launcher RUNNABLE
+    ##u0a296/6196 from u0a296: com.microsoft.launcher RUNNABLE
+    #androidx.work.systemjobscheduler:u0a250/9500 from u0a250: com.callapp.contacts RUNNABLE
+    #androidx.work.systemjobscheduler:u0a250/9642 from u0a250: com.callapp.contacts RUNNABLE
+    #androidx.work.systemjobscheduler:u0a250/9501 from u0a250: com.callapp.contacts RUNNABLE
+    #androidx.work.systemjobscheduler:u0a250/9739 from u0a250: com.callapp.contacts RUNNABLE
+    #androidx.work.systemjobscheduler:u0a250/9729 from u0a250: com.callapp.contacts RUNNABLE
+    #androidx.work.systemjobscheduler:u0a250/9601 from u0a250: com.callapp.contacts RUNNABLE
+    #androidx.work.systemjobscheduler:u0a250/9634 from u0a250: com.callapp.contacts RUNNABLE
+    #androidx.work.systemjobscheduler:u0a237/8585 from u0a237: com.whatsapp RUNNABLE
+    #androidx.work.systemjobscheduler:u0a237/8483 from u0a237: com.whatsapp RUNNABLE
+    #androidx.work.systemjobscheduler:u0a237/8588 from u0a237: com.whatsapp RUNNABLE
+    #androidx.work.systemjobscheduler:u0a237/8589 from u0a237: com.whatsapp RUNNABLE
+    #androidx.work.systemjobscheduler:u0a237/8495 from u0a237: com.whatsapp RUNNABLE
+    #androidx.work.systemjobscheduler:u0a235/7480 from u0a235: com.instagram.android RUNNABLE
+    #androidx.work.systemjobscheduler:u0a235/7482 from u0a235: com.instagram.android RUNNABLE
+    ##u0a235/2131434927 from u0a235: com.instagram.android RUNNABLE
+    #androidx.work.systemjobscheduler:u0a235/7473 from u0a235: com.instagram.android RUNNABLE
+    #androidx.work.systemjobscheduler:u0a235/7484 from u0a235: com.instagram.android RUNNABLE
+    #androidx.work.systemjobscheduler:u0a235/7481 from u0a235: com.instagram.android RUNNABLE
+    #androidx.work.systemjobscheduler:u0a235/7485 from u0a235: com.instagram.android RUNNABLE
+    #androidx.work.systemjobscheduler:u0a226/2532 from u0a226: com.google.android.verifier RUNNABLE
+    #androidx.work.systemjobscheduler:u0a226/2533 from u0a226: com.google.android.verifier RUNNABLE
+    #androidx.work.systemjobscheduler:u0a226/2535 from u0a226: com.google.android.verifier RUNNABLE
+    #androidx.work.systemjobscheduler:u0a226/2537 from u0a226: com.google.android.verifier RUNNABLE
+    #androidx.work.systemjobscheduler:u0a226/2530 from u0a226: com.google.android.verifier RUNNABLE
+    #androidx.work.systemjobscheduler:u0a226/2531 from u0a226: com.google.android.verifier RUNNABLE
+    #androidx.work.systemjobscheduler:u0a226/2534 from u0a226: com.google.android.verifier RUNNABLE
+    #androidx.work.systemjobscheduler:u0a226/2536 from u0a226: com.google.android.verifier RUNNABLE
+    #SyncManager:1000/32 from u0a234: ir.eitaa.messenger RUNNABLE
+    #SyncManager:1000/38 from u0a236: org.telegram.messenger RUNNABLE
+    #SyncManager:1000/30 from u0a280: com.imo.android.imoim RUNNABLE
+    #SyncManager:1000/128 from u0a237: com.whatsapp RUNNABLE
+    #SyncManager:1000/39 from u0a236: org.telegram.messenger RUNNABLE
+    Timer<REG>{<0>org.telegram.messenger} NOT active, 0 running bg jobs
+    Timer<REG>{<0>com.callapp.contacts} NOT active, 0 running bg jobs
+    Timer<REG>{<0>com.whatsapp} NOT active, 0 running bg jobs
+    Timer<REG>{<0>com.google.android.verifier} NOT active, 0 running bg jobs
+    Timer<REG>{<0>com.microsoft.launcher} NOT active, 0 running bg jobs
+    Timer<REG>{<0>com.instagram.android} NOT active, 0 running bg jobs
+    Timer<REG>{<0>com.drdisagree.iconify} NOT active, 0 running bg jobs
+    Timer<REG>{<0>com.facebook.lite} NOT active, 0 running bg jobs
+    Timer<EJ>{<0>com.whatsapp} NOT active, 0 running bg jobs (debit adj=0)
+    TopAppTimer{<0>com.BrainLadder.Amirza} NOT active
+    TopAppTimer{<0>com.drdisagree.pixellauncherenhanced} NOT active
+    TopAppTimer{<0>com.instagram.android} NOT active
+    TopAppTimer{<0>com.microsoft.launcher} NOT active
+    TopAppTimer{<0>com.tafayor.killall} NOT active
+    TopAppTimer{<0>ir.baran.vpn} NOT active
+    TopAppTimer{<0>com.whatsapp} NOT active
+    TopAppTimer{<0>org.telegram.messenger} NOT active
+      <0>org.telegram.messenger
+      <0>com.callapp.contacts
+      <0>com.whatsapp
+      <0>com.google.android.verifier
+      <0>com.microsoft.launcher
+      <0>com.instagram.android
+      <0>com.drdisagree.iconify
+      <0>com.drdisagree.pixellauncherenhanced
+      <0>ir.eitaa.messenger
+      <0>com.facebook.lite
+      <0>com.imo.android.imoim
+      <0>org.telegram.messenger: ShrinkableDebits { debit tally: 0, bucket: 0 }
+      <0>com.callapp.contacts: ShrinkableDebits { debit tally: 0, bucket: 0 }
+      <0>com.whatsapp: ShrinkableDebits { debit tally: 23995, bucket: 0 }
+      <0>ir.baran.vpn: ShrinkableDebits { debit tally: 0, bucket: 0 }
+      <0>com.tafayor.killall: ShrinkableDebits { debit tally: 0, bucket: 0 }
+      <0>com.microsoft.launcher: ShrinkableDebits { debit tally: 0, bucket: 0 }
+      <0>com.instagram.android: ShrinkableDebits { debit tally: 0, bucket: 0 }
+      <0>com.drdisagree.iconify: ShrinkableDebits { debit tally: 0, bucket: 0 }
+      <0>com.drdisagree.pixellauncherenhanced: ShrinkableDebits { debit tally: 0, bucket: 0 }
+      <0>com.BrainLadder.Amirza: ShrinkableDebits { debit tally: 0, bucket: 0 }
+      <0>com.facebook.lite: ShrinkableDebits { debit tally: 0, bucket: 3 }
+  0-ComponentInfo{com.facebook.lite/com.facebook.lite.intent.WakefulIntentService}: com.facebook.lite
+  0-ComponentInfo{com.instagram.android/com.instagram.jobscheduler.bgfetch.scheduler.IgBgFetchSchedulerService}: com.instagram.android
+  0-ComponentInfo{com.facebook.lite/com.facebook.lite.intent.PeriodicTaskJobService}: com.facebook.lite
+  0-ComponentInfo{com.drdisagree.pixellauncherenhanced/com.drdisagree.pixellauncherenhanced.services.UpdateCheckJob}: com.drdisagree.pixellauncherenhanced
+  0-ComponentInfo{com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService}: com.callapp.contacts
+  0-ComponentInfo{org.telegram.messenger/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}: org.telegram.messenger
+  0-ComponentInfo{com.callapp.contacts/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}: com.callapp.contacts
+  0-ComponentInfo{com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService}: com.whatsapp
+  0-ComponentInfo{com.google.android.verifier/androidx.work.impl.background.systemjob.SystemJobService}: com.google.android.verifier
+  0-ComponentInfo{com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService}: com.microsoft.launcher
+  0-ComponentInfo{com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService}: com.instagram.android
+  0-ComponentInfo{com.whatsapp/com.whatsapp.infra.push.RegistrationIntentService}: com.whatsapp
+  0-ComponentInfo{com.whatsapp/com.whatsapp.infra.crash.upload.ExceptionsUploadService}: com.whatsapp
+  0-ComponentInfo{com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService}: com.drdisagree.iconify
+  0-ComponentInfo{com.drdisagree.iconify/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}: com.drdisagree.iconify
+  0-ComponentInfo{com.microsoft.launcher/com.microsoft.launcher.report.senderproc.HockeySenderService}: com.microsoft.launcher:hockeysender
+  0-ComponentInfo{org.telegram.messenger/org.telegram.messenger.KeepAliveJob}: org.telegram.messenger
+  0-ComponentInfo{com.whatsapp/com.whatsapp.alarmservice.AlarmService}: com.whatsapp
+  10225: {com.google.android.safetycore}
+  10226: {com.google.android.verifier}
+  10235: {com.instagram.android}
+  10236: {org.telegram.messenger}
+  10237: {com.whatsapp}
+  10250: {com.callapp.contacts}
+  10283: {com.tafayor.killall}
+  10296: {com.microsoft.launcher}
+  10314: {ir.mservices.market}
+  10345: {com.wakeup.howear}
+  10356: {com.BrainLadder.Amirza}
+  10388: {ir.baran.vpn}
+  10398: {com.drdisagree.iconify}
+  10408: {com.facebook.lite}
+  10729: {com.drdisagree.pixellauncherenhanced}
+  10736: {com.droidbubble.app}
+  u0a226 / com.google.android.verifier:
+  u0a235 / com.instagram.android:
+  u0a236 / org.telegram.messenger:
+  u0a237 / com.whatsapp:
+  u0a250 / com.callapp.contacts:
+  u0a296 / com.microsoft.launcher:
+  u0a398 / com.drdisagree.iconify:
+  u0a408 / com.facebook.lite:
+  u0a729 / com.drdisagree.pixellauncherenhanced:
+       -59m21s263ms   START: #u0a398/408 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+       -59m21s229ms    STOP: #u0a398/408 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService app called jobFinished
+       -48m08s250ms   START: #u0a235/2131434927 com.instagram.android/com.instagram.jobscheduler.bgfetch.scheduler.IgBgFetchSchedulerService
+       -48m05s305ms    STOP: #u0a235/2131434927 com.instagram.android/com.instagram.jobscheduler.bgfetch.scheduler.IgBgFetchSchedulerService app called jobFinished
+       -37m31s203ms   START: #u0a398/409 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+       -37m31s191ms   START: #u0a398/410 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+       -37m31s184ms   START: #u0a398/411 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService
+       -37m31s132ms    STOP: #u0a398/409 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService app called jobFinished
+       -37m31s123ms    STOP: #u0a398/410 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService app called jobFinished
+       -37m31s117ms    STOP: #u0a398/411 @androidx.work.systemjobscheduler@com.drdisagree.iconify/androidx.work.impl.background.systemjob.SystemJobService app called jobFinished
+       -21m30s414ms START-P: #u0a408/10016 com.facebook.lite/.intent.PeriodicTaskJobService
+       -21m30s405ms   START: #u0a235/7474 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+       -21m30s400ms   START: #u0a235/7478 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+       -21m30s389ms  STOP-P: #u0a408/10016 com.facebook.lite/.intent.PeriodicTaskJobService app called jobFinished
+       -21m30s367ms    STOP: #u0a235/7478 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService app called jobFinished
+       -21m18s112ms    STOP: #u0a235/7474 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService app called jobFinished
+       -20m43s704ms   START: #u0a296/6303 com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService
+       -20m43s664ms    STOP: #u0a296/6303 com.microsoft.launcher/androidx.work.impl.background.systemjob.SystemJobService app called jobFinished
+       -19m29s431ms   START: #u0a408/1786848100 com.facebook.lite/.intent.WakefulIntentService
+       -19m29s301ms    STOP: #u0a408/1786848100 com.facebook.lite/.intent.WakefulIntentService last work dequeued
+       -19m19s697ms   START: #u0a250/9735 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+       -19m19s614ms   START: #u0a250/9736 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+       -19m19s606ms    STOP: #u0a250/9735 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService app called jobFinished
+       -19m19s587ms    STOP: #u0a250/9736 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService app called jobFinished
+       -18m34s563ms   START: #u0a236/1000 org.telegram.messenger/.KeepAliveJob
+       -17m34s538ms    STOP: #u0a236/1000 org.telegram.messenger/.KeepAliveJob last work dequeued
+        -5m25s247ms   START: #u0a235/7478 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+        -5m24s153ms   START: #u0a235/7479 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+        -5m24s032ms    STOP: #u0a235/7478 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService cancelled while waiting for bind
+        -5m23s931ms   START: #u0a235/7483 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+        -5m23s871ms    STOP: #u0a235/7479 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService app called jobFinished
+        -5m23s867ms    STOP: #u0a235/7483 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService app called jobFinished
+        -3m19s434ms   START: #u0a250/9738 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+        -3m19s400ms    STOP: #u0a250/9738 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService app called jobFinished
+      3919d73 {androidx.work.systemjobscheduler} #u0a250/9738 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+      u0a250 tag=*job*/@androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+      Source: uid=u0a250 user=0 pkg=com.callapp.contacts
+        Service: com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+      d927e7d {androidx.work.systemjobscheduler} #u0a235/7483 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+      u0a235 tag=*job*/@androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+      Source: uid=u0a235 user=0 pkg=com.instagram.android
+        Service: com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+      380c6e5 {androidx.work.systemjobscheduler} #u0a235/7479 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+      u0a235 tag=*job*/@androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+      Source: uid=u0a235 user=0 pkg=com.instagram.android
+        Service: com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+      12268c1 {androidx.work.systemjobscheduler} #u0a235/7478 @androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+      u0a235 tag=*job*/@androidx.work.systemjobscheduler@com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+      Source: uid=u0a235 user=0 pkg=com.instagram.android
+        Service: com.instagram.android/androidx.work.impl.background.systemjob.SystemJobService
+      3a1fa96 #u0a236/1000 org.telegram.messenger/.KeepAliveJob
+      u0a236 tag=*job*/org.telegram.messenger/.KeepAliveJob
+      Source: uid=u0a236 user=0 pkg=org.telegram.messenger
+        Service: org.telegram.messenger/.KeepAliveJob
+      57b731f {androidx.work.systemjobscheduler} #u0a250/9736 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+      u0a250 tag=*job*/@androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+      Source: uid=u0a250 user=0 pkg=com.callapp.contacts
+        Service: com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+      dc38572 {androidx.work.systemjobscheduler} #u0a250/9735 @androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+      u0a250 tag=*job*/@androidx.work.systemjobscheduler@com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+      Source: uid=u0a250 user=0 pkg=com.callapp.contacts
+        Service: com.callapp.contacts/androidx.work.impl.background.systemjob.SystemJobService
+      9fce984 #u0a408/1786848100 com.facebook.lite/.intent.WakefulIntentService
+      u0a408 tag=*job*/com.facebook.lite/.intent.WakefulIntentService
+      Source: uid=u0a408 user=0 pkg=com.facebook.lite
+        Service: com.facebook.lite/.intent.WakefulIntentService

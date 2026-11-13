@@ -1,0 +1,156 @@
+        org.swiftapps.swiftbackup
+        com.rhs.ccontrol
+        com.drdisagree.colorblendr
+        shop.whitedns.client
+      u0a354 com.jhc.detach
+      u0a284 io.github.a13e300.ksuwebui
+      u0a363 ir.sinsin.CrossWord
+      u0a314 ir.mservices.market
+      u0a359 com.parsmobapp
+      u0a237 com.whatsapp
+      u0a276 com.ceyhan.sets
+      u0a240 com.alan.alanvpn
+      u0a345 com.wakeup.howear
+      u0a344 com.v2ray.warpi
+      u0a361 ir.tgbs.peccharge
+      u0a283 com.tafayor.killall
+      u0a271 com.ambrose.overwall
+      u0a322 com.smartpack.packagemanager
+      u0a317 com.mobisystems.editor.office_with_reg
+      u0a365 ir.gov.mygov
+      u0a370 com.pooyabyte.mb.android
+      u0a330 com.samapp.backupsms.backsmspro
+      u0a311 com.mxtunnel.pro
+      u0a241 com.arumcomm.settingsshortcut
+      u0a296 com.microsoft.launcher
+      u0a350 com.yahoo.mobile.client.android.mail
+      u0a355 com.sibche.aspardproject.app
+      u0a258 com.microsoft.emmx
+      u0a295 com.microsoft.math
+      u0a238 com.google.android.apps.searchlite
+      u0a351 zank.remote
+      u0a681 dev.ukanth.ufirewall
+      u0a360 com.nrdc.android.pyh
+      u0a247 com.farsitel.bazaar
+      u0a273 com.chartcross.gpstest
+      u0a231 com.baladmaps
+      u0a348 cn.wps.moffice_i18n
+      u0a308 com.mxtech.videoplayer.ad
+      u0a729 com.drdisagree.pixellauncherenhanced
+      u0a709 app.protasovvpn.com
+      u0a244 com.lb.app_manager
+      u0a736 com.droidbubble.app
+      u0a313 ir.mci.ecareapp
+      u0a234 ir.eitaa.messenger
+      u0a353 com.Zuma.MaTriX
+      u0a705 com.mixplorer
+      u0a256 com.digikala
+      u0a340 com.google.android.apps.translate
+      u0a688 com.shexa.permissionmanager
+      u0a265 com.fluxvpn2023.vpnflux2021
+      u0a336 com.termux
+      u0a287 com.gamovation.mahjongclub
+      u0a304 com.msnguard.vpn
+      u0a325 com.platovpn.vpn
+      u0a366 com.csdiran.samat
+      u0a249 org.skvalex.cr
+      u0a280 com.imo.android.imoim
+      u0a293 com.core.biggame.marble.android
+      u0a352 com.catstudio.zuma1
+      u0a318 com.opera.browser.beta
+      u0a320 ru.evfvelpy.plprfpupq
+      u0a248 com.binwizteam.vpn
+      u0a327 com.naman14.powermenu
+      u0a232 ir.balad
+      u0a257 ir.divar
+      u0a233 ir.nasim
+      u0a372 ir.tejaratbank.totp.mobile.android
+    ELAPSED_WAKEUP #4: Alarm{5220148 type 2 origWhen 7645821 whenElapsed 7650822 com.facebook.lite}
+      tag=*walarm*:com.facebook.lite.metainstallreferrer.periodic_install_referrer_entries_purge
+      operation=PendingIntent{18eabe1: PendingIntentRecord{323ed06 com.facebook.lite broadcastIntent}}
+    ELAPSED_WAKEUP #12: Alarm{5c28f8d type 2 origWhen 9445813 whenElapsed 9450814 com.facebook.lite}
+      tag=*walarm*:com.facebook.lite.notification.OFFLINE_NOTIFICATION
+      operation=PendingIntent{fa24542: PendingIntentRecord{c3dc953 com.facebook.lite broadcastIntent}}
+    ELAPSED_WAKEUP #13: Alarm{2d83290 type 2 origWhen 9505807 whenElapsed 9505807 com.facebook.lite}
+      tag=*walarm*:com.facebook.lite.analytics.CHECK_DEVICE_STATUS
+      operation=PendingIntent{d59789: PendingIntentRecord{c13738e com.facebook.lite broadcastIntent}}
+    ELAPSED_WAKEUP #14: Alarm{f51a7af type 2 origWhen 9505809 whenElapsed 9505809 com.facebook.lite}
+      tag=*walarm*:com.facebook.lite.datausage.DATA_USAGE
+      operation=PendingIntent{735e7bc: PendingIntentRecord{5f72345 com.facebook.lite broadcastIntent}}
+    ELAPSED_WAKEUP #23: Alarm{dc33516 type 2 origWhen 16645819 whenElapsed 16650819 com.facebook.lite}
+      tag=*walarm*:com.facebook.lite.notification.PERIODIC_APP_BADGE_UPDATE
+      operation=PendingIntent{b4e7e97: PendingIntentRecord{ac81884 com.facebook.lite broadcastIntent}}
+    RTC_WAKEUP #30: Alarm{4d7b6dd type 0 origWhen 1794601821000 whenElapsed 29572841 com.whatsapp}
+      tag=*walarm*:com.whatsapp.action.DAILY_CRON
+      operation=PendingIntent{57e6252: PendingIntentRecord{6310923 com.whatsapp broadcastIntent}}
+    RTC_WAKEUP #34: Alarm{f473511 type 0 origWhen 1794609029000 whenElapsed 36780841 com.whatsapp}
+      tag=*walarm*:com.whatsapp.action.BACKUP_MESSAGES
+      operation=PendingIntent{fa2f676: PendingIntentRecord{4bf1477 com.whatsapp broadcastIntent}}
+    ELAPSED #37: Alarm{8caef50 type 3 origWhen 43246921 whenElapsed 43246921 com.whatsapp}
+      tag=*alarm*:com.whatsapp.action.UPDATE_NTP
+      operation=PendingIntent{b327549: PendingIntentRecord{3ae5e4e com.whatsapp broadcastIntent}}
+    ELAPSED_WAKEUP #38: Alarm{4e1b6f type 2 origWhen 45445811 whenElapsed 45445811 com.facebook.lite}
+      operation=PendingIntent{477b07c: PendingIntentRecord{aa41d05 com.facebook.lite broadcastIntent}}
+    ELAPSED_WAKEUP #40: Alarm{dcd5868 type 2 origWhen 72548629 whenElapsed 72548629 com.whatsapp}
+      tag=*walarm*:com.whatsapp.action.HEARTBEAT_WAKEUP
+      operation=PendingIntent{9ce8481: PendingIntentRecord{613e926 com.whatsapp broadcastIntent}}
+    ELAPSED_WAKEUP #55: Alarm{107b112 type 2 origWhen 88645817 whenElapsed 88650817 com.facebook.lite}
+      tag=*walarm*:com.facebook.lite.autoupdate.OXYGEN_FPP_STATUS
+      operation=PendingIntent{e2610e3: PendingIntentRecord{1ec8ae0 com.facebook.lite broadcastIntent}}
+    RTC_WAKEUP #58: Alarm{ce4506a type 0 origWhen 1794835099583 whenElapsed 262851424 com.BrainLadder.Amirza}
+      tag=*walarm*:com.BrainLadder.Amirza/com.unity.androidnotifications.UnityNotificationManager
+      operation=PendingIntent{9b2b95b: PendingIntentRecord{cf4d5f8 com.BrainLadder.Amirza broadcastIntent}}
+    RTC_WAKEUP #60: Alarm{c9d59a4 type 0 origWhen 1795180699743 whenElapsed 608451584 com.BrainLadder.Amirza}
+      tag=*walarm*:com.BrainLadder.Amirza/com.unity.androidnotifications.UnityNotificationManager
+      operation=PendingIntent{927530d: PendingIntentRecord{a1a82c2 com.BrainLadder.Amirza broadcastIntent}}
+    ELAPSED_WAKEUP #61: Alarm{52cf8d3 type 2 origWhen 1377957748 whenElapsed 1377957748 com.whatsapp}
+      tag=*walarm*:com.whatsapp.action.ROTATE_SENDER_KEYS
+      operation=PendingIntent{e286c10: PendingIntentRecord{c831309 com.whatsapp broadcastIntent}}
+    ELAPSED_WAKEUP #62: Alarm{592090e type 2 origWhen 2519631986 whenElapsed 2519631986 com.whatsapp}
+      tag=*walarm*:com.whatsapp.action.ROTATE_SIGNED_PREKEY
+      operation=PendingIntent{cc44f2f: PendingIntentRecord{d10393c com.whatsapp broadcastIntent}}
+    RTC_WAKEUP #63: Alarm{1c0d6c5 type 0 origWhen 1797167899744 whenElapsed 2595651585 com.BrainLadder.Amirza}
+      tag=*walarm*:com.BrainLadder.Amirza/com.unity.androidnotifications.UnityNotificationManager
+      operation=PendingIntent{1e9a81a: PendingIntentRecord{fd0af4b com.BrainLadder.Amirza broadcastIntent}}
+    RTC #65: Alarm{ff8f527 type 1 origWhen 1799680554000 whenElapsed 5108305840 com.callapp.contacts}
+      operation=PendingIntent{adc73d4: PendingIntentRecord{520197d com.callapp.contacts broadcastIntent}}
+    ELAPSED #1: Alarm{8b9110f type 3 origWhen 3647044 whenElapsed 3647044 com.whatsapp}
+      tag=*alarm*:com.whatsapp.action.HOURLY_CRON
+      operation=PendingIntent{a99059c: PendingIntentRecord{5851ba5 com.whatsapp broadcastIntent}}
+    org.telegram.messenger, u0: -21m33s744ms, 
+    com.whatsapp, u0: -1h23m52s76ms, -1h57m40s386ms, 
+    com.instagram.android, u0: -6s766ms, -42m51s550ms, -48m11s537ms, -50m54s676ms, -53m45s550ms, -56m14s431ms, -59m21s532ms, 
+    com.facebook.lite, u0: -21m16s776ms, 
+          type=ELAPSED tag=*alarm*:com.whatsapp.alarm.CLIENT_PING_PERIODIC 
+          type=ELAPSED_WAKEUP tag=*walarm*:com.whatsapp.MessageHandler.LOGOUT_ACTION 
+          type=ELAPSED_WAKEUP tag=*walarm*:com.whatsapp.alarm.CLIENT_PING_TIMEOUT 
+          type=ELAPSED tag=*alarm*:com.whatsapp.alarm.CLIENT_PING_PERIODIC 
+          type=ELAPSED tag=*alarm*:com.whatsapp.alarm.CLIENT_PING_PERIODIC 
+          type=ELAPSED_WAKEUP tag=*walarm*:com.whatsapp.MessageHandler.LOGOUT_ACTION 
+          type=ELAPSED_WAKEUP tag=*walarm*:com.whatsapp.alarm.CLIENT_PING_TIMEOUT 
+          type=ELAPSED tag=*alarm*:com.facebook.lite.NOTIFICATIONS_SNOOZE_TIMER_RECEIVER 
+    +6s866ms running, 2 wakeups, 2 alarms: u0a408:com.facebook.lite
+      *walarm*:com.facebook.lite.datausage.DATA_USAGE
+    +6s860ms running, 2 wakeups, 2 alarms: u0a408:com.facebook.lite
+      *walarm*:com.facebook.lite.analytics.CHECK_DEVICE_STATUS
+    +6s848ms running, 2 wakeups, 2 alarms: u0a408:com.facebook.lite
+      *walarm*:com.facebook.lite.metainstallreferrer.periodic_install_referrer_entries_purge
+    +4s595ms running, 0 wakeups, 17 alarms: u0a235:com.instagram.android
+    +1s838ms running, 2 wakeups, 2 alarms: u0a408:com.facebook.lite
+      *walarm*:com.facebook.lite.notification.OFFLINE_NOTIFICATION
+    +1s773ms running, 1 wakeups, 1 alarms: u0a408:com.facebook.lite
+      *walarm*:com.facebook.lite.notification.PERIODIC_APP_BADGE_UPDATE
+    +1s770ms running, 1 wakeups, 1 alarms: u0a408:com.facebook.lite
+      *walarm*:com.facebook.lite.autoupdate.OXYGEN_FPP_STATUS
+  u0a235:com.instagram.android +4s866ms running, 2 wakeups:
+  u0a236:org.telegram.messenger +14ms running, 1 wakeups:
+      *walarm*:org.telegram.messenger/.NotificationRepeat
+  u0a237:com.whatsapp +20ms running, 0 wakeups:
+      *alarm*:com.whatsapp.alarm.CLIENT_PING_PERIODIC
+  u0a408:com.facebook.lite +6s866ms running, 10 wakeups:
+      *walarm*:com.facebook.lite.datausage.DATA_USAGE
+      *walarm*:com.facebook.lite.analytics.CHECK_DEVICE_STATUS
+      *walarm*:com.facebook.lite.metainstallreferrer.periodic_install_referrer_entries_purge
+      *walarm*:com.facebook.lite.notification.OFFLINE_NOTIFICATION
+      *walarm*:com.facebook.lite.notification.PERIODIC_APP_BADGE_UPDATE
+      *walarm*:com.facebook.lite.autoupdate.OXYGEN_FPP_STATUS

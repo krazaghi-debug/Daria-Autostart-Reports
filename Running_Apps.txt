@@ -1,0 +1,15 @@
+u0_a398       2718  1023   17008792 105044 do_epoll_wait       0 S com.drdisagree.iconify
+u0_a283       3424  1023   16664780  83564 do_epoll_wait       0 S com.tafayor.killall:service
+u0_a250       3480  1023   20089632 226256 do_epoll_wait       0 S com.callapp.contacts
+u0_a345       3580  1023   17316260 119760 do_epoll_wait       0 S com.wakeup.howear
+u0_a296       3589  1023   18975216 331636 do_epoll_wait       0 S com.microsoft.launcher
+u0_a736       3590  1023   16755696  89348 do_epoll_wait       0 S com.droidbubble.app
+u0_a237       4990  1023   19239208 224176 do_freezer_trap     0 S com.whatsapp
+u0_a283       7334  1023   17322360 236328 do_epoll_wait       0 S com.tafayor.killall
+u0_a235      16675  1023   20606104 734352 do_epoll_wait       0 S com.instagram.android
+u0_a236      16780  1023   19208664 176792 do_freezer_trap     0 S org.telegram.messenger
+u0_i9000     16953  1023   17482580  85552 do_freezer_trap     0 S org.telegram.messenger:widgets:org.telegram.utils.twidget.WidgetEngineService
+u0_a408      17841  1023   18022312 139716 do_freezer_trap     0 S com.facebook.lite
+u0_a388      18527  1023   17408828 245524 do_epoll_wait       0 S ir.baran.vpn
+u0_a356      26777  1023   23002148 321724 do_freezer_trap     0 S com.BrainLadder.Amirza
+u0_a314      26991  1023   17329056 127012 do_freezer_trap     0 S ir.mservices.market
